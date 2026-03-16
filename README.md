@@ -44,7 +44,7 @@ cd python-port-scanner
 3. Ejecutar el script
 
 ```bash
-python port_scanner.py
+python puertos.py
 ```
 
 ## Ejemplo de salida
