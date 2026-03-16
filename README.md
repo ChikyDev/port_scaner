@@ -32,13 +32,13 @@ Este proyecto está pensado como práctica para aprender sobre:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/python-port-scanner.git
+git clone https://github.com/tuusuario/port_scaner.git
 ```
 
 2. Entrar en la carpeta del proyecto
 
 ```bash
-cd python-port-scanner
+cd port_scaner
 ```
 
 3. Ejecutar el script
