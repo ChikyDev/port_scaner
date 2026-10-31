@@ -32,7 +32,7 @@ Este proyecto está pensado como práctica para aprender sobre:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/port_scaner.git
+git clone https://github.com/ChikyDev/port_scaner.git
 ```
 
 2. Entrar en la carpeta del proyecto
